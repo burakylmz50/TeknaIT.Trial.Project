@@ -1,0 +1,6 @@
+framework module Pods_TeknaTrialProject {
+  umbrella header "Pods-TeknaTrialProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
